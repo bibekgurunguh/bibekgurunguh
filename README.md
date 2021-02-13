@@ -6,9 +6,9 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-| ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express]![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects] |      |
-| ------------------------------------------------------------ | ---- |
-|                                                              |      |
+| ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express]![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects] | ![][clipart] |
+| ------------------------------------------------------------ | ------------ |
+|                                                              |              |
 
 
 
@@ -29,6 +29,7 @@ When I am not programming, I find myself enjoying activities like Basketball🏀
 [Photoshop]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/photoshop_icon.png
 [ Illustrator ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/illustrator_icon.png
 [ After Effects ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/aftereffects_icon.png
+[ clipart ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/clipart.png
 
 
 
