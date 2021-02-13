@@ -6,14 +6,23 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-| ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express] ![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects] | ![][clipart] |
-| ------------ | ---------------------- |
+<code><img height="100" alt="JavaScript" src="./assets/js_icon.png"></code>
+<code><img height="100" alt="TypeScript" src="./assets/ts_icon.png"></code>
+<code><img height="100" alt="React" src="./assets/react_icon.png"></code>
+<code><img height="100" alt="Redux" src="./assets/redux_icon.png"></code>
+<code><img height="100" alt="HTML5" src="./assets/html5_icon.png"></code>
+<code><img height="100" alt="CSS3" src="./assets/css3_icon.png"></code>
+<code><img height="100" alt="Git" src="./assets/git_icon.png"></code>
+<code><img height="100" alt="Github" src="./assets/github_icon.png"></code>
+<code><img height="100" alt="Express" src="./assets/express_icon.png"></code>
+<code><img height="100" alt="MongoDB" src="./assets/mongodb_icon.png"></code>
+<code><img height="100" alt="Photoshop" src="./assets/photoshop_icon.png"></code>
+<code><img height="100" alt="Illustrator" src="./assets/illustrator_icon.png"></code>
+<code><img height="100" alt="After Effects" src="./assets/aftereffects_icon.png"></code>
 
+<img align="right" alt="illustration of web developer with laptop" src="./assets/clipart.png" width="400" height="440" />
 
-
-
-
-
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express] ![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects]
 
 [JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/js_icon.png
 [TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/ts_icon.png
