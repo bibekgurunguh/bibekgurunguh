@@ -6,9 +6,9 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-|                                                              |      |
-| :----------------------------------------------------------- | ---- |
 | ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express]![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects] |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
 
 
 
