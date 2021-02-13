@@ -15,20 +15,20 @@ When I am not programming, I find myself enjoying activities like Basketball🏀
 
 
 
-[JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/js_icon.png
-[TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/ts_icon.png
-[React]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/react_icon.png
-[ Redux ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/redux_icon.png
-[HTML5]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/html5_icon.png
-[CSS3]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/css3_icon.png
-[Git]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/git_icon.png
-[Github]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/github_icon.png
-[ Express ]:  https://github.com/bibekgurunguh/bibekgurunguh/blob/main/express_icon.png
-[MongoDB]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/mongodb_icon.png
-[Photoshop]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/photoshop_icon.png
-[ Illustrator ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/illustrator_icon.png
-[ After Effects ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/aftereffects_icon.png
-[ clipart ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/clipart.png
+[JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/js_icon.png
+[TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/ts_icon.png
+[React]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/react_icon.png
+[ Redux ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/redux_icon.png
+[HTML5]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/html5_icon.png
+[CSS3]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/css3_icon.png
+[Git]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/git_icon.png
+[Github]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/github_icon.png
+[ Express ]:  https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/express_icon.png
+[MongoDB]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/mongodb_icon.png
+[Photoshop]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/photoshop_icon.png
+[ Illustrator ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/illustrator_icon.png
+[ After Effects ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/aftereffects_icon.png
+[ clipart ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/clipart.png
 
 
 
