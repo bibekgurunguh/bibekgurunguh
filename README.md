@@ -6,22 +6,24 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-<code><img height="100" alt="JavaScript" src="./assets/js_icon.png"></code>
-<code><img height="100" alt="TypeScript" src="./assets/ts_icon.png"></code>
-<code><img height="100" alt="React" src="./assets/react_icon.png"></code>
-<code><img height="100" alt="Redux" src="./assets/redux_icon.png"></code>
-<code><img height="100" alt="HTML5" src="./assets/html5_icon.png"></code>
-<code><img height="100" alt="CSS3" src="./assets/css3_icon.png"></code>
-<code><img height="100" alt="Git" src="./assets/git_icon.png"></code>
-<code><img height="100" alt="Github" src="./assets/github_icon.png"></code>
-<code><img height="100" alt="Express" src="./assets/express_icon.png"></code>
-<code><img height="100" alt="MongoDB" src="./assets/mongodb_icon.png"></code>
-<code><img height="100" alt="Photoshop" src="./assets/photoshop_icon.png"></code>
-<code><img height="100" alt="Illustrator" src="./assets/illustrator_icon.png"></code>
-<code><img height="100" alt="After Effects" src="./assets/aftereffects_icon.png"></code>
-
 <img align="right" alt="illustration of web developer with laptop" src="./assets/clipart.png" width="400" height="440" />
 
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express] ![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects]
+
+[JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/js_icon.png
+[TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/ts_icon.png
+[React]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/react_icon.png
+[ Redux ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/redux_icon.png
+[HTML5]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/html5_icon.png
+[CSS3]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/css3_icon.png
+[Git]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/git_icon.png
+[Github]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/github_icon.png
+[ Express ]:  https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/express_icon.png
+[MongoDB]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/mongodb_icon.png
+[Photoshop]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/photoshop_icon.png
+[ Illustrator ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/illustrator_icon.png
+[ After Effects ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/aftereffects_icon.png
+[ clipart ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/clipart.png
 
 
 
