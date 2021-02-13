@@ -6,7 +6,22 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-![JavaScript](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/js_icon.png) ![TypeScript](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/ts_icon.png) ![React](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/react_icon.png)![HTML5](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/html5_icon.png) ![CSS3](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/css3_icon.png) ![Git](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/git_icon.png) ![Github](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/github_icon.png) ![MongoDB](https://github.com/bibekgurunguh/bibekgurunguh/blob/main/mongodb_icon.png)
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![MongoDB][MongoDB]
+
+
+
+[JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/js_icon.png
+[TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/ts_icon.png
+[React]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/react_icon.png
+[HTML5]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/html5_icon.png
+[CSS3]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/css3_icon.png
+[Git]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/git_icon.png
+[Github]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/github_icon.png
+[MongoDB]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/mongodb_icon.png
+
+
+
+
 
 
 
