@@ -6,7 +6,7 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![MongoDB][MongoDB]
+![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express]![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects]
 
 
 
@@ -17,7 +17,11 @@ When I am not programming, I find myself enjoying activities like Basketball🏀
 [CSS3]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/css3_icon.png
 [Git]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/git_icon.png
 [Github]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/github_icon.png
+[ Express ]:  https://github.com/bibekgurunguh/bibekgurunguh/blob/main/express_icon.png
 [MongoDB]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/mongodb_icon.png
+[Photoshop]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/photoshop_icon.png
+[ Illustrator ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/illustrator_icon.png
+[ After Effects ]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/aftereffects_icon.png
 
 
 
