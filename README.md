@@ -6,7 +6,7 @@ My expertise lie in, but not limited to,  **JavaScript/TypeScript** and **React/
 
 When I am not programming, I find myself enjoying activities like Basketball🏀, Swimming🏊‍♀️, Animation🏃‍♀️🏃‍♂️ and Video Editing📽 to name a few.
 
-<a href="https://www.linkedin.com/in/bibekgrg/"><img alt="LinkedIn Profile" src="./assets/LI-Logo.png" height="100"></a>
+<a href="https://www.linkedin.com/in/bibekgrg/"><img alt="LinkedIn Profile" src="./assets/LI-Logo.png" height="30"></a>
 
 <img align="right" alt="illustration of web developer with laptop" src="./assets/clipart.png" width="400" height="400" />
 
