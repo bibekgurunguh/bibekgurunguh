@@ -10,7 +10,8 @@ When I am not programming, I find myself enjoying activities like Basketball🏀
 
 <img align="right" alt="illustration of web developer with laptop" src="./assets/clipart.png" width="400" height="400" />
 
-![JavaScript][JavaScript] ![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express] ![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects]
+<!-- ![JavaScript][JavaScript] -->
+![TypeScript][TypeScript] ![React][React] ![Redux][Redux] ![HTML5][HTML5] ![CSS3][CSS3] ![Git][Git] ![Github][Github] ![Express][Express] ![MongoDB][MongoDB] ![Photoshop][Photoshop] ![Illustrator ][Illustrator ] ![After Effects][After Effects]
 
 [JavaScript]: https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/js_icon.png
 [TypeScript]:https://github.com/bibekgurunguh/bibekgurunguh/blob/main/assets/ts_icon.png
